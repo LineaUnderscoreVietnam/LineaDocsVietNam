@@ -14,7 +14,7 @@ Tất cả những gì bạn cần để tương tác với Linea là tải xu�
 
 Linea tương thích với mọi ví tương thích với EVM. Nếu muốn thêm mạng Linea, bạn có thể tìm thông tin mạng liên quan trong [Thông tin mạng và hợp đồng đã triển khai]
 
-### Vậy là chúng ta đã có Linea trong . Kế tiếp sẽ làm gì ?
+### Vậy là chúng ta đã có Linea trong ví. Kế tiếp sẽ làm gì ?
 
 **MetaMask giống như một con dao của quân đội Thụy Sĩ**: bất kể bạn cần làm gì trên web phi tập trung, có thể nó sẽ có một công cụ cho việc đó.
 
