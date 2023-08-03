@@ -15,4 +15,4 @@ Bạn có thể sử dụng ví MetaMask của mình để chuyển token giữa
 Giờ đây, bạn có thể xem chi tiết giao dịch trong tab **Activity** hoặc [block explorer](https://lineascan.build/).
 
 ## Đối với các loại ví khác
-Linea là một mạng tương thích với EVM mà không cần cấp phép. Điều đó có nghĩa là nếu bạn muốn sử dụng một ví khác với Linea, bạn có thể sử dụng thông tin mạng được tìm thấy trong [Thông tin mạng và các hợp đồng đã triển khai].
+Linea là một mạng tương thích với EVM mà không cần phải có sự cho phép của bất kì ai. Điều đó có nghĩa là nếu bạn muốn sử dụng một ví khác với Linea, bạn có thể sử dụng thông tin mạng được tìm thấy trong [Thông tin mạng và các hợp đồng đã triển khai].
